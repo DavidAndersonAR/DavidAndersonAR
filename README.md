@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 Atualmente estou trabalhando na TIVIT como dev Jr
+- 🌱 Estou estudando bastante python/django/psql, tambem tenho conhecimento com zabbix e grafana
+- ⚡ Tenho bastante afinidade com linux
 
 <div>
 <a href="https://github.com/DavidAndersonAR">
