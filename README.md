@@ -1,30 +1,28 @@
-# Olá, me chamo David !
+## 💜 Olá, meu nome é David Anderson!
 
-## Bem vindo ao meu perfil GitHub 👋
-<!--
-**DavidAndersonAR/DavidAndersonAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No momento estou trabalhando como Desenvolvedor Backend Python, atuando principalmento na criação/manutenção de aplicações para controle de estoque, inventario de equipamentos, cadastro e controle de usuarios para os sistemas..
 
-Here are some ideas to get you started:
+🔭 Estou trabalhando em dois projetos pessoais no momento, um PDV que esta sendo entregue a uma rede de padarias(duas rsrsrs) com funcionalidades como abertura de caixa por funcionario, relatorios de vendas, perdas, saidas e entradas, o outro é um app com flutter para pagamentos de mensalidades para um provedor de internet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 .
 
-- 🔭 Atualmente estou trabalhando na TIVIT como dev Jr
-- 🌱 Estou estudando bastante Python/Django/SQL/Flet/FASTapi, tambem tenho conhecimento com zabbix e grafana
-- ⚡ Tenho bastante afinidade com linux
+---
 
-<div>
-<a href="https://github.com/DavidAndersonAR">
-  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAndersonAR&layout=compact&langs_count=7&theme=dracula"/>
-  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidAndersonAR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## 🚀 Minhas Skills
 
-</div>
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Django"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAndersonAR&show_icons=true)
