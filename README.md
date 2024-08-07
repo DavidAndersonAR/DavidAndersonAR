@@ -25,4 +25,6 @@ No momento estou trabalhando como Desenvolvedor Backend Python, atuando principa
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAndersonAR&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidAndersonAR&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAndersonAR)](https://github.com/DavidAndersonAR/github-readme-stats)
+
+
